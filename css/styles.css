@@ -1,5 +1,5 @@
-*{
-  font-family: '', ;
+* {
+  font-family: 'Merriweather', serif;
 }
 
 body{
@@ -8,7 +8,7 @@ body{
 
 label,
 p{
-  color: rgb(136, 136, 136)
+  color: rgb(136, 136, 136);
 }
 
 header{
